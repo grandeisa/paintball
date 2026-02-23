@@ -1,0 +1,3 @@
+- Target platforms: Windows, Linux
+- 3D
+- Game Engine: Godot Engine

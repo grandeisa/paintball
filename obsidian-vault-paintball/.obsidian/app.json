@@ -1,1 +1,7 @@
-{}
+{
+  "attachmentFolderPath": "attachments",
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "tabSize": 4,
+  "alwaysUpdateLinks": true
+}

@@ -1,4 +1,5 @@
 {
   "theme": "obsidian",
-  "accentColor": "#ff8100"
+  "accentColor": "#26fd78",
+  "showViewHeader": true
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "Game Design Document.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "Game Design Document"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 228.5
   },
   "right": {
     "id": "ef38c05522209433",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "Game Design Document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for readme"
+              "title": "Backlinks for Game Design Document"
             }
           },
           {
@@ -187,7 +187,14 @@
   },
   "active": "d75f6b16a2e572f8",
   "lastOpenFiles": [
-    "Welcome.md",
-    "readme.md"
+    "References.md",
+    "attachments/Pasted image 20260223100737.png",
+    "Game Design Document.md",
+    "attachments/Pasted image 20260223095958.png",
+    "attachments",
+    "Specs.md",
+    "readme.md",
+    "game-design",
+    "Welcome.md"
   ]
 }
