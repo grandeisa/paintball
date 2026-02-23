@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design Document.md",
+                "file": "Specs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game Design Document"
+              "title": "Specs"
+            }
+          },
+          {
+            "id": "e49c55ca08c31561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gameplay"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design Document.md",
+                "file": "Gameplay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Game Design Document"
+              "title": "Backlinks for Gameplay"
             }
           },
           {
@@ -185,14 +200,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d75f6b16a2e572f8",
+  "active": "e49c55ca08c31561",
   "lastOpenFiles": [
+    "Gameplay.md",
+    "Specs.md",
+    "Game Design Document.md",
     "References.md",
     "attachments/Pasted image 20260223100737.png",
-    "Game Design Document.md",
     "attachments/Pasted image 20260223095958.png",
     "attachments",
-    "Specs.md",
     "readme.md",
     "game-design",
     "Welcome.md"
